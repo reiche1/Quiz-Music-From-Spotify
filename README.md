@@ -1,4 +1,4 @@
-# SpotiQuiz
+# Forked from SpotiQuiz but is going somewhere else
 
 **_How well do you know your music?_**\
 Music quiz using Spotify music library. Play at **[spotiquiz.online](https://spotiquiz.online/)**
